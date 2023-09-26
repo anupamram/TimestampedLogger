@@ -1,6 +1,5 @@
 # TimestampedLogger
 
-
 # Usage example:
 
 # Method 1:
