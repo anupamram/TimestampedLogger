@@ -1,7 +1,5 @@
 # TimestampedLogger
 
-# Usage example:
-
 # Method 1:
 logger = TimestampedLogger()
 logger.log("Print message to Terminal Only.")
